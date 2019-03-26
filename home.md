@@ -1,4 +1,5 @@
-<!-- TITLE: Home -->
-<!-- SUBTITLE: A quick summary of Home -->
+<!-- TITLE: TuMaps Home -->
+<!-- SUBTITLE: This is the TuMaps homepage! -->
 
-# Header
+# Details
+This is the wiki page that will store information for each of our campus locations.
