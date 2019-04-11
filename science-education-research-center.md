@@ -9,3 +9,8 @@ The Science Education and Research Center, or SERC for short, is one of the newe
 
 The SERC is connected to the neighboring Gladfelther Hall, and there is a passage way between the two buildings on their first floors. There is also a small food stand on the first floor of the SERC, near the passage way between SERC and Gladfelter.
 
+A valid TUID is required to get inside.
+
+### Rooms
+
+
